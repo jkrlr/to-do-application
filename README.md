@@ -2,6 +2,8 @@
 
 This is a simple Todo application built off Django (including the Django REST Framework for API CRUD operations) and React.
 
+![todo](https://user-images.githubusercontent.com/63921263/147334320-84cc774b-079b-4d46-9dea-ca4ad30fcc93.gif)
+
 ## Technology Stack
 
 **Frontend:** React  
